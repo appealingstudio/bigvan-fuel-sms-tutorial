@@ -1,0 +1,14 @@
+{
+    "name": "appealingstudio/bigvan-tutorial",
+    "description": "Tutorial that leverages the vinli php sdk and sends text message when your low on fuel",
+    "require": {
+        "appealingstudio/php-vinli-sdk": "dev-master",
+        "twilio/sdk": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Kiefer Waight",
+            "email": "kiefer.waight@appealingstudio.com"
+        }
+    ]
+}
